@@ -8,3 +8,14 @@
 
 ## LAB-3
     Pattern - Singleton
+
+## LAB-4
+    Pattern - Fabric
+
+## LAB-5
+    Pattern - проектирования
+
+## LAB-6-7
+    MVC
+
+## LAB
